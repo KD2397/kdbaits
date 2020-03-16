@@ -1,0 +1,182 @@
+    body {
+    background: white;
+    color: black;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+    header{
+        background: white;
+        background-image: url("bass.jpg");
+        background-size: 20%;
+        background-repeat: no-repeat;
+        background-position: right;
+        padding: 20px;
+        height: 300px;
+        text-align: left;
+    }
+    header a {
+        color: black;
+        text-decoration: none;
+        text-transform: bold; 
+        margin-top: 40px;
+    }
+    
+    header .logo a {
+        background-image: url("logo\ 1.PNG");
+        background-size: 300px;
+        background-repeat: no-repeat;
+        display: inline-block;
+        height: 130px;
+        position: relative;
+        text-indent: -9999999px;
+        top: -30px;
+        width: 300px;
+    }
+    header .cart a {
+        position: absolute;
+        height: 100%;
+        right: 40px;
+        top: 200px;
+        bottom: 0;
+        padding: 0;
+        margin: 0;
+
+    }
+    p {
+        font-size: 20px;
+    }
+    nav ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    nav li {
+        display: inline-block;
+        margin-left: 30px;
+    }
+
+    .features {
+    background: white;
+    display: flex;
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+    }
+
+    .features figure {
+        font-size: 12px;
+        margin: auto;
+        text-align: center;
+        width: 200px;
+        position: relative;
+        right: 150px;
+    }
+    
+    
+    .features figure img {
+        width: 500px;
+        box-shadow: gray 0px 0px 10px;
+        border-radius: 20px;
+    }
+    .products {
+        background: white;
+        display: flex;
+        padding: 20px;
+        display: flex;
+        flex-direction: row;
+    }
+    .products figure {
+        font-size: 22px;
+        margin: auto;
+        text-align: left;
+        width: 200px;
+        position: relative;
+    }
+    
+    .products figure img {
+        width: 600px;
+        box-shadow: gray 0px 0px 10px;
+        border-radius: 20px;
+        position: relative;
+        right: 90px;
+    }
+    .lake figure img {
+        width: 1700px;
+        right: 500px;
+        bottom: 100px;
+        padding: 600px; 
+        height: 1080px;
+        position: relative;
+    }
+
+    figcaption {
+        position: relative;     
+     }
+     
+    footer {
+        background: black;
+        color: Grey;
+        font-size: 12px;
+        padding: 20px 20px;
+        text-align: center;
+    }
+
+    li:first-child {
+        margin-left: 10px;
+    }
+    li:hover {
+        background-color: lightgrey;
+    }
+    a {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+   
+    button {
+        border: none;
+        border-radius: 20px;
+        text-decoration: none;
+    }
+    button:hover {
+        background: lightgrey;
+        bottom: 50px;
+        opacity: 1;
+        padding: 10px;
+        text-decoration: none;
+    }
+
+    div {
+        text-align: center;
+        color: Black;
+        font-size: larger;
+        margin: auto;
+        padding: 15px;
+    }
+    h4 {
+        font-size: x-large;
+        color: red;
+        text-align: center;
+        text-decoration: underline;
+    }
+    h2 {
+        font-size: 50px;
+        color: rgb(39, 7, 179);
+        font-family: cursive;
+        text-decoration: underline;
+    }
+
+   
+   
+  
+    
+    
+
+
+  
+    
+
+    
+
